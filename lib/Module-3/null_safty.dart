@@ -21,7 +21,9 @@ main() {
 
   age >= 18 ? print('Able to vote') : print('Still kid');
 
-  print('welcome to x ${name ?? 'Guest'}'); // null check and show default value
+  print('welcome to x ${name ?? 'Guest'}');
+  // null check and show default value
 
-  print(name?.length); // avoid error on null
+  print(name?.length);
+  // avoid error on null
 }
