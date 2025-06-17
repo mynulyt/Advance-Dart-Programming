@@ -24,6 +24,7 @@ main() {
     '548485',
     '5454885',
     '554854',
+    '01254687',
   ];
   for (int index = 0; index < gpNumbers.length; index++) {
     // print('আজ! ২ জিবি ৬৫টাকা ৭দিন। ডায়াল *১২১*৫০৩৭# বা https://mygp.li/f9');
