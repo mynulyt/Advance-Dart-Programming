@@ -31,7 +31,7 @@ main() {
 
   for (var number in gpNumbers) {
     print(
-      '$number আজ! ২ জিবি ৬৫টাকা ৭দিন। ডায়াল *১২১*৫০৩৭# বা https://mygp.li/f9',
+      '$number আজ! ২ জিবি ৬৫টাকা ৭দিন। ডায়াল *১২১*৫০৩৭# বা https://mysdsgp.li/f9',
     );
   }
 
