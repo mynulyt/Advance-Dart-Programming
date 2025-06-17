@@ -3,7 +3,7 @@ import 'dart:io';
 main() {
   var amount = 100;
   var FriendAmount = 500;
-  var friend = 'rahim';
+  var friend = 'Rahim';
 
   if (amount < 50) {
     print('ame rskw te jbo');
