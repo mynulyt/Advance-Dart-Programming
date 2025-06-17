@@ -23,7 +23,7 @@ main() {
   print('List length: ${numbers.length}');
   print(numbers.runtimeType);
 
-  ///dynamic list
+  ///dynamic list making
 
   List test = ['df', true, 10.5, 54];
 
