@@ -1,4 +1,5 @@
 //Encapsulation
+//private and public
 class Restaurant {
   int _id = 2030;
 
