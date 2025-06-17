@@ -16,7 +16,7 @@ main() {
   if (amount <= 100) {
     print('Rastai kbo');
   } else if (amount >= 300) {
-    print('Bangla hotel kbo');
+    print('Bangla hotel Kabo');
   } else {
     print('Basai kbo');
   }
