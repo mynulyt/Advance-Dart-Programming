@@ -1,4 +1,5 @@
 main() {
+  //design a calculator using by * + - / etc
   //+,-,*,/
   int a = 20;
   int b = 30;
