@@ -7,6 +7,7 @@ main() {
   //setter method
 
   BFC.setID = 6565;
+  //getter method
 
   print(BFC.RestaurantID);
 }
