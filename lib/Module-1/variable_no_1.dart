@@ -1,4 +1,5 @@
 import 'dart:io';
+//varible , how take input and print
 
 main() {
   print('Enter 1st number: ');
