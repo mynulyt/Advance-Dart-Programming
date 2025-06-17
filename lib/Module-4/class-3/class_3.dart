@@ -4,7 +4,7 @@ main() {
   Restaurant BFC = Restaurant();
   BFC.order('ckn fry');
 
-  ///// gov////
+  //setter method
 
   BFC.setID = 6565;
 
