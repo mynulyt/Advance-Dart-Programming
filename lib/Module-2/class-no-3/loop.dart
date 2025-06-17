@@ -11,7 +11,7 @@ main() {
     print('12 x $i = ${12 * (i)}');
   }
 
-  List<String> students = ['Rahim', 'Karim', 'Taufiq', 'Emon', 'Bobo'];
+  List<String> students = ['Rahim', 'Karim', 'Taufiq', 'Emon', 'Mynul'];
 
   for (int index = 0; index < students.length; index++) {
     print('${students[index]} welcome to school');
