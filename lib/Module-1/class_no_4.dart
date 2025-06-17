@@ -8,7 +8,8 @@ main() {
   String? name2;
   print(name2);
   print('Enter your name:');
-  name2 = stdin.readLineSync(); //user input in string
+  name2 = stdin.readLineSync();
+  //user input in string
   print('Enter your age:');
 
   int? age = int.tryParse(stdin.readLineSync()!);
